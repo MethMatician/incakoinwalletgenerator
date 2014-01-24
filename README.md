@@ -4,7 +4,7 @@ IncaKoin Wallet Generator
 The Online IncaKoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. Get the <a href='https://github.com/MethMatician/incakoinwalletgenerator/archive/master.zip'>zip file here</a>.
 
 
-Consider a donation to improve this SkeinCoin project:
+Consider a donation to improve this IncaKoin project:
 <br><b> NKA:</b> NY3s6TJxuPh9CbyGAyaWpAiNjGthXQwH77
 
 or to the developers of bitaddress.org.
