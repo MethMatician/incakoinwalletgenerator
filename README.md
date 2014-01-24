@@ -1,4 +1,4 @@
-incakoinwalletgenerator
+IncaKoin Wallet Generator
 =======================
 
 The Online IncaKoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. Get the <a href='https://github.com/MethMatician/incakoinwalletgenerator/archive/master.zip'>zip file here</a>.
