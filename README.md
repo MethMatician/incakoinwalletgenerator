@@ -5,7 +5,7 @@ The Online IncaKoin Wallet Generator. Create your Single Wallet, Paper Wallet, B
 
 
 Consider a donation to improve this SkeinCoin project:
-<br><b> NKA:</b> 
+<br><b> NKA:</b> NY3s6TJxuPh9CbyGAyaWpAiNjGthXQwH77
 
 or to the developers of bitaddress.org.
 
